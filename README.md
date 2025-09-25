@@ -74,6 +74,9 @@ Requirement Analysis consists of **five key activities** that ensure the require
 **Use Case Diagrams** are a type of behavioral diagram in the Unified Modeling Language (UML) used to visually represent the functional requirements of a system.  
 They illustrate the interactions between **actors** (users or external systems) and the **use cases** (system functions or services) to show what the system will do from the user's perspective.
 
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
 ### Benefits of Use Case Diagrams
 
 - **Clear Visualization:**  
