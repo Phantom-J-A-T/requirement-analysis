@@ -68,3 +68,24 @@ Requirement Analysis consists of **five key activities** that ensure the require
 
 - **Requirement Validation**  
   Reviewing the documented requirements with stakeholders to ensure correctness, completeness, and alignment with project goals.
+
+## Use Case Diagrams
+
+**Use Case Diagrams** are a type of behavioral diagram in the Unified Modeling Language (UML) used to visually represent the functional requirements of a system.  
+They illustrate the interactions between **actors** (users or external systems) and the **use cases** (system functions or services) to show what the system will do from the user's perspective.
+
+### Benefits of Use Case Diagrams
+
+- **Clear Visualization:**  
+  They provide a simple and intuitive way to represent system functionality and user interactions.
+
+- **Improved Communication:**  
+  Stakeholders, developers, and testers can easily understand system requirements through diagrams rather than lengthy textual descriptions.
+
+- **Requirement Validation:**  
+  They help ensure that all user needs and system interactions are captured and validated early in the development process.
+
+- **Project Planning:**  
+  By outlining system functionalities, use case diagrams assist in estimating effort, planning iterations, and allocating resources efficiently.
+
+---
