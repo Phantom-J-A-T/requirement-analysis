@@ -92,3 +92,38 @@ They illustrate the interactions between **actors** (users or external systems) 
   By outlining system functionalities, use case diagrams assist in estimating effort, planning iterations, and allocating resources efficiently.
 
 ---
+
+---
+
+## Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements that a software product or feature must meet to be accepted by stakeholders or end-users.  
+They act as a checklist to verify whether the functionality works as intended and meets the user's needs before it is considered "done."
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+- **Clarity and Transparency:**  
+  They provide a clear understanding of what needs to be delivered and prevent ambiguity in requirements.
+
+- **Alignment with Business Goals:**  
+  Acceptance criteria ensure that the developed feature aligns with user needs and project objectives.
+
+- **Testing and Validation:**  
+  They serve as the foundation for creating test cases, ensuring that all features are thoroughly validated.
+
+- **Scope Management:**  
+  Well-defined acceptance criteria prevent scope creep by outlining exactly what the feature should include.
+
+---
+
+### Example: Acceptance Criteria for Checkout Feature  
+
+**Feature:** Checkout in the Booking Management System  
+
+**Acceptance Criteria:**  
+- The system should allow users to review their booking details before finalizing the checkout.  
+- Users must be able to enter and save payment information securely.  
+- A confirmation message should appear once the payment is successful.  
+- The system must generate and send a booking receipt via email to the user.  
+- The checkout process should complete within 5 seconds under normal network conditions.  
+- If payment fails, the system should display an error message and allow retrying or selecting a different payment method.
